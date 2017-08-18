@@ -1,0 +1,41 @@
+{
+  "origin": [
+      "#sentence#"
+  ],
+  "sentence": [
+      "#instrument_desc.a# #instrument# #play.s# over #beat#."
+  ],
+  "instrument": [
+      "flute",
+      "gong",
+      "lute",
+      "piano",
+      "theremin",
+      "trombone",
+      "violin",
+      "vocal",
+      "zither"
+  ],
+  "beat": [
+      "#beat_desc.a# beat",
+      "#beat_desc# bass",
+      "#beat_desc# #instrument.s#"
+  ],
+  "beat_desc": [
+      "aggressive",
+      "",
+      "heavy",
+      "pulsing",
+      "pounding",
+      "rippling",
+      "smooth",
+      "strident",
+      "stuttering"
+  ],
+  "instrument_desc": [
+      "muted",
+      "auto-tuned",
+      "passionate",
+      ""
+  ]
+}
