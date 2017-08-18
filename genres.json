@@ -25,7 +25,14 @@
       "metal",
       "synth",
       "noise",
-      "grime"
+      "grime",
+      "#questionableGenres#"
+    ],
+  "questionableGenres": [
+      "nintendo",
+      "skweee",
+      ""
+
     ],
   "prefix": [
       "post-",
@@ -34,7 +41,6 @@
       "grim ",
       "twee ",
       "ambient ",
-      "wuss-",
       "leftfield ",
       "four-on-the-floor ",
       "acoustic ",
@@ -48,7 +54,9 @@
       "#instrument#-centric ",
       "#instrument# ",
       "Euro-",
-      "soft "
+      "soft ",
+      "glam ",
+      "turbo"
     ],
   "suffix": [
       "wave",
