@@ -2,7 +2,7 @@
   "origin":["#prefix##genre#", "#prefix##genre#", "#prefix##genre##suffix#","#prefix##genre##suffix#", "#genre##suffix#", "#prefix##genre#/#genre##suffix#"],
   "genre":["funk", "soul", "rock", "folk", "pop","dirt", "hip-hop", "dance", "house", "jazz", "metal", "synth", "noise", "grime"],
   "prefix":["post-","neo-","nasty ","grim ","twee ", "ambient ", "wuss-", "leftfield ", "four-on-the-floor ", "acoustic ", "dad ", "deep ", "acid ", "power ", "alt-", "baroque ", "orchestral ","#instrument#-centric ", "#instrument# ", "Euro-", "soft ", "technical ", "soft ", "classic "],
-  "suffix":["wave","core","-fox", " with hints of #origin#", " electronica", " fusion", " punk", "grind", " with prominent #instrument.s#", "over #beat#"],
+  "suffix":["wave","core","-fox", " with hints of #origin#", " electronica", " fusion", " punk", "grind", " with prominent #instrument.s#", " over #beat#"],
   "instrument":["violin","piano","theremin","zither","lute","trombone","flute","vocal","gong"],
   "beat":["#sound_desc.a# beat", "#sound_desc# bass", "#sound_desc# #instrument.s#"],
   "sound_desc":["pulsing", "smooth", "rippling", "dancy", "heavy", "pounding", "stuttering", "aggressive", "strident"]
