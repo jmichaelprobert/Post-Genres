@@ -10,80 +10,80 @@
       "#geoLocation##genre##suffix#",
       "#prefix##genre#/#genre##suffix#",
       "#geoLocation##prefix##genre#/#genre##suffix#"
-    ],
+  ],
   "genre": [
-      "funk",
-      "soul",
-      "rock",
-      "folk",
-      "pop",
-      "dirt",
-      "hip-hop",
       "dance",
+      "dirt",
+      "funk",
+      "folk",
+      "grime",
+      "hip-hop",
       "house",
       "jazz",
       "metal",
-      "synth",
       "noise",
-      "grime",
+      "pop",
+      "rock",
+      "soul",
+      "synth",
+
       "#questionableGenres#"
-    ],
+  ],
   "questionableGenres": [
       "nintendo",
-      "skweee",
-      ""
-
-    ],
+      "skweee"
+  ],
   "prefix": [
-      "post-",
-      "neo-",
-      "nasty ",
-      "grim ",
-      "twee ",
+      "acid ",
+      "alt-",
       "ambient ",
-      "leftfield ",
-      "four-on-the-floor ",
       "acoustic ",
+      "baroque ",
       "dad ",
       "deep ",
-      "acid ",
-      "power ",
-      "alt-",
-      "baroque ",
-      "orchestral ",
-      "#instrument#-centric ",
-      "#instrument# ",
-      "Euro-",
-      "soft ",
+      "euro-",
+      "four-on-the-floor ",
       "glam ",
-      "turbo"
-    ],
+      "grim ",
+      "leftfield ",
+      "nasty ",
+      "neo-",
+      "orchestral ",
+      "post-",
+      "power ",
+      "soft ",
+      "turbo",
+      "twee ",
+
+      "#instrument# "
+      "#instrument#-centric "
+  ],
   "suffix": [
-      "wave",
       "core",
-      "-fox",
-      " with hints of #origin#",
       " electronica",
+      "-fox",
       " fusion",
-      " punk",
       "grind",
+      " punk",
+      "wave",
+      " with hints of #origin#",
       " with prominent #instrument.s#"
-    ],
+  ],
   "instrument": [
-      "violin",
+      "flute",
+      "gong",
+      "lute",
       "piano",
       "theremin",
-      "zither",
-      "lute",
       "trombone",
-      "flute",
+      "violin",
       "vocal",
-      "gong"
-    ],
+      "zither"
+  ],
   "geoLocation": [
-      "southern ",
-      "eastern ",
       "canadian ",
+      "eastern ",
+      "southern ",
       "tibetan "
   ],
   "beat": [
@@ -92,14 +92,14 @@
       "#sound_desc# #instrument.s#"
   ],
   "sound_desc": [
-      "pulsing",
-      "smooth",
-      "rippling",
+      "aggressive",
       "dancy",
       "heavy",
+      "pulsing",
       "pounding",
-      "stuttering",
-      "aggressive",
-      "strident"
+      "rippling",
+      "smooth",
+      "strident",
+      "stuttering"
   ]
 }
