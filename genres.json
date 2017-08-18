@@ -5,11 +5,10 @@
       "#prefix##genre##suffix#",
       "#prefix##genre##suffix#",
       "#geoLocation##prefix##genre##suffix#",
-      "#geoLocation##prefix##genre##suffix#",
+      "#prefix##genre##suffix#",
       "#genre##suffix#",
       "#geoLocation##genre##suffix#",
-      "#prefix##genre#/#genre##suffix#",
-      "#geoLocation##prefix##genre#/#genre##suffix#"
+      "#prefix##genre#/#genre##suffix#"
   ],
   "genre": [
       "dance",
