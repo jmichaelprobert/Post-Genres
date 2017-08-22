@@ -3,7 +3,11 @@
       "#sentence#"
   ],
   "sentence": [
-      "#instrument_desc.a# #instrument# #play.s# over #beat#."
+      "#instrument_desc.a# #instrument# #play.s# over #beat#.","Exploring the space between #prefix##genre# and #prefix##genre#","Branching out from #possessive# early work in #origin#, this work embraces #origin#"
+  ],
+  "possessive": [
+      "his",
+      "her",
   ],
   "instrument": [
       "flute",
