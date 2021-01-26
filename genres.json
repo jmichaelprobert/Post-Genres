@@ -29,7 +29,10 @@
       "#questionableGenres#"
   ],
   "questionableGenres": [
+      "filk"
+      "jungle",
       "nintendo",
+      "ska",
       "skweee"
   ],
   "prefix": [
@@ -63,6 +66,7 @@
       "-fox",
       " fusion",
       "grind",
+      "step",
       " punk",
       "wave",
       " with hints of #origin#",
